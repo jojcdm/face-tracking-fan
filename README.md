@@ -3,7 +3,7 @@
 A desk fan that finds a face in a camera frame and turns to follow it, on two servo axes.
 Built over three generations — a thermostat, then ultrasonic tracking, then computer vision.
 
-**Write-up:** https://jjackjohnston05.github.io/face-tracking-fan/
+**Write-up:** https://jojcdm.github.io/face-tracking-fan/
 
 ## How it works
 
